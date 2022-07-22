@@ -19,4 +19,4 @@ Right Arrow = Next
 OK = Play/Pause
 
 
-Edit secrets.py with your WiFi info, and the WiiM Mini's IP address.  Use Thonny to push the files to your Pi Pico W and test.  When working, simply power the Pi Pico W from a wall wart.
+Edit secrets.py with your WiFi info, and the WiiM Mini's IP address.  Use Thonny to install the latest version of MicroPython and push the files to your Pi Pico W and test.  When working, simply power the Pi Pico W from a wall wart.
