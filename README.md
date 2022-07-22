@@ -1,0 +1,16 @@
+# WiiM-Remote-Pi-Pico-W
+Simple hack to test IR remote control with WiiM Mini on Pi Pico W
+
+Uses a cheap remote and sensor from Amazon:  https://www.amazon.com/gp/product/B07DJ58XGC/
+and a Pi Pico W.  
+
+Thanks to Peter Hinch for his great MicroPython libraries.  This uses his micropython_ir: https://github.com/peterhinch/micropython_ir
+
+The code expects the sensor on GP28, but any other GPIO can be used.
+
+Remote control keys:
+
+Keys 1-9 will play the corresponding Queue item.
+< = Previous
+> = Next
+OK = Play/Pause
