@@ -11,6 +11,11 @@ The code expects the sensor on GP28, but any other GPIO can be used.
 Remote control keys:
 
 Keys 1-9 will play the corresponding Queue item.
-< = Previous
-> = Next
+
+Left Arrow = Previous
+
+Right Arrow = Next
+
 OK = Play/Pause
+
+
